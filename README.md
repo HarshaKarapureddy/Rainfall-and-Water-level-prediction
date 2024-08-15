@@ -4,7 +4,7 @@ via the sklearn module (Linear regression model specifically) to make prediction
 predictions made to produce a scatter plot with a linear regression line. Other Python files are 
 also provided to show plot graphs of rainfall and water levels relevant to date. 
 
-** HOWEVER THE RESULTS ARE STILL A WORK IN PROGRESS AND MAY NOT BE ACCURATE**
+** HOWEVER THE RESULTS ARE STILL A WORK IN PROGRESS AND MAY NOT BE ACCURATE **
 
 #Instructions
 1) type one of the three .csv file names provided in the csv_output variable.
